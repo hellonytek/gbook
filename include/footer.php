@@ -1,0 +1,2 @@
+<hr id="footer">
+            <img src="static/gbook.png" id="fte" height="14"><span id="ftet"> | <img src="static/nytek.png" id="fte" height="14"> | <a href="#">Contributors</a> | <a href="#">Contact Us</a> | <a href="#">Terms of Service</a></span>
